@@ -14,7 +14,7 @@ int main()
     cin >> powerRaised;
 
     result = calculatePower(base, powerRaised);
-    cout << base << "^" << powerRaised << " = " << result;
+    cout << base << "[" << powerRaised << " = " << result;
 
     return 0;
 }
